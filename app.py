@@ -6,5 +6,5 @@ if st.button("add"):
 	st.success(a+b)
 elif st.button("subtract"):
 	st.success(a-b)
-elif st.button("multiply"):
-	st.success(a*b)
+
+	
